@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-03T02:38:59 TRT" name="Default suite" finished-at="2021-05-03T02:39:03 TRT" duration-ms="3537">
+    <groups>
+    </groups>
+    <test started-at="2021-05-03T02:38:59 TRT" name="Default test" finished-at="2021-05-03T02:39:03 TRT" duration-ms="3537">
+      <class name="IntegrationTests">
+        <test-method signature="get_clients_returns_200_with_java_language()[pri:0, instance:IntegrationTests@51f116b8]" started-at="2021-05-03T02:38:59 TRT" name="get_clients_returns_200_with_java_language" finished-at="2021-05-03T02:39:02 TRT" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_clients_returns_200_with_java_language -->
+        <test-method signature="post_clients_returns_400_with_expected_parameters()[pri:0, instance:IntegrationTests@51f116b8]" started-at="2021-05-03T02:39:02 TRT" name="post_clients_returns_400_with_expected_parameters" finished-at="2021-05-03T02:39:03 TRT" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_clients_returns_400_with_expected_parameters -->
+      </class> <!-- IntegrationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
